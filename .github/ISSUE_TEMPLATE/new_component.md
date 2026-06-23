@@ -15,7 +15,7 @@ Ej: Creación del componente...
 
 ---
 
-## Duracion
+## Duración
 
 h
 
