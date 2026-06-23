@@ -9,7 +9,7 @@ assignees: ""
 
 ## Descripción
 
-Ej: Creación del componente...
+Creación del componente...
 
 **Diseño de Referencia / Figma:** [Pega aquí el enlace al diseño o captura]
 
