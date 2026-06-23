@@ -1,7 +1,7 @@
 ---
 name: "Reporte de error"
 about: "Crea un informe para ayudarnos a mejorar"
-title: "[BUG] "
+title: "Bug: "
 labels: "bug"
 assignees: ""
 ---
