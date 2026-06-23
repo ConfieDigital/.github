@@ -1,5 +1,5 @@
 ---
-name: "🧱 Componente de UI"
+name: "Componente de UI"
 about: Plantilla para la maquetación y desarrollo de un nuevo componente visual (Header, Hero, Footer, etc.).
 title: "component: "
 labels: feature
