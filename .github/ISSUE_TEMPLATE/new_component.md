@@ -2,11 +2,12 @@
 name: "Componente de UI"
 about: Plantilla para la maquetación y desarrollo de un nuevo componente visual (Header, Hero, Footer, etc.).
 title: "component: "
-labels: feature
+labels: enhancement
+type: Feature
 assignees: ""
 ---
 
-## 📝 Descripción
+## Descripción
 
 Ej: Creación del componente...
 
@@ -14,14 +15,20 @@ Ej: Creación del componente...
 
 ---
 
-## 🛠️ Especificaciones Técnicas
+## Duracion
 
-### 🏗️ Estructura y Semántica (HTML / Pug)
+h
+
+---
+
+## Especificaciones Técnicas
+
+### Estructura y Semántica (HTML / Pug)
 
 - [ ] Definir etiquetas HTML5 semánticas adecuadas.
 - [ ] Planificar la reutilización del componente.
 
-### 🎨 Estilos (SCSS / CSS)
+### Estilos (SCSS / CSS)
 
 - [ ] Crear el archivo de estilos aislado para el componente.
 - [ ] Aplicar enfoque **Mobile-First** para los breakpoints.
@@ -30,7 +37,7 @@ Ej: Creación del componente...
 
 ---
 
-## ♿ Accesibilidad (a11y) y Rendimiento
+## Accesibilidad (a11y) y Rendimiento
 
 - [ ] Garantizar el contraste correcto de color entre texto y fondo.
 - [ ] Asegurar la navegación fluida mediante el uso del teclado (`Tab`).
@@ -39,7 +46,7 @@ Ej: Creación del componente...
 
 ---
 
-## 📋 Criterios de Aceptación / Checklist de Entrega
+## Criterios de Aceptación / Checklist de Entrega
 
 - [ ] El componente es completamente responsive (se adapta a mobile, tablet y desktop).
 - [ ] El componente es accesible
@@ -47,5 +54,3 @@ Ej: Creación del componente...
 - [ ] El componente es reutilizable
 - [ ] Funciona correctamente en los navegadores principales (Chrome, Safari, Firefox, Edge).
 - [ ] El código está limpio, formateado y libre de estilos en línea (_inline styles_).
-
----

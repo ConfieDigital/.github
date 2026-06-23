@@ -6,10 +6,12 @@ labels: "bug"
 assignees: ""
 ---
 
-**Descripción del bug**
+# Descripción del bug
+
 Una descripción clara y concisa de lo que es el error.
 
-**Para reproducir**
+## Para reproducir
+
 Pasos para reproducir el comportamiento:
 
 1. Ir a '...'
@@ -17,24 +19,27 @@ Pasos para reproducir el comportamiento:
 3. Desplazarse hacia abajo hasta '....'
 4. Ver el error
 
-**Comportamiento esperado**
+## Comportamiento esperado
+
 Una descripción clara y concisa de lo que esperabas que sucediera.
 
-**Capturas de pantalla**
+## Capturas de pantalla
+
 Si es aplicable, añade capturas de pantalla para ayudar a explicar tu problema.
 
-**Escritorio (por favor, completa la siguiente información):**
+## Escritorio (por favor, completa la siguiente información):
 
 - SO: [ej. Windows, macOS]
 - Navegador: [ej. chrome, safari]
 - Versión: [ej. 22]
 
-**Smartphone (por favor, completa la siguiente información):**
+## Smartphone (por favor, completa la siguiente información):
 
 - Dispositivo: [ej. iPhone6]
 - SO: [ej. iOS8.1]
 - Navegador: [ej. navegador predeterminado, safari]
 - Versión: [ej. 22]
 
-**Contexto adicional**
+## Contexto adicional
+
 Añade aquí cualquier otro contexto sobre el problema.
