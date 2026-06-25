@@ -51,7 +51,7 @@ h
 
 - [ ] El componente es completamente responsive (se adapta a mobile, tablet y desktop).
 - [ ] El componente es accesible.
-- [ ] El componente pasa la validacion de W3C.
+- [ ] El componente pasa la validación de W3C.
 - [ ] El componente es reutilizable.
 - [ ] Funciona correctamente en los navegadores principales (Chrome, Safari, Firefox, Edge).
 - [ ] El código está limpio, formateado y libre de estilos en línea (_inline styles_).

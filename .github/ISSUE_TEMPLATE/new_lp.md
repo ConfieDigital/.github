@@ -54,7 +54,7 @@ h
 
 - [ ] El LP es completamente responsive (se adapta a mobile, tablet y desktop).
 - [ ] El LP es accesible.
-- [ ] El LP pasa la validacion de W3C.
+- [ ] El LP pasa la validación de W3C.
 - [ ] Se configuró correctamente el archivo confing.pug.
 - [ ] Se generó correctamente los archivos PHP.
 - [ ] Se configuró correctamente los archivos structure.conf.
