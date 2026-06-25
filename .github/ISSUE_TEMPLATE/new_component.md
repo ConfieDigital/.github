@@ -9,9 +9,10 @@ assignees: ""
 
 ## Descripción
 
-Creación del componente...
+Creación del componente
 
-**Diseño de Referencia / Figma:** [Pega aquí el enlace al diseño o captura]
+**Figma:**
+**Wrike:**
 
 ---
 
@@ -49,8 +50,8 @@ h
 ## Criterios de Aceptación / Checklist de Entrega
 
 - [ ] El componente es completamente responsive (se adapta a mobile, tablet y desktop).
-- [ ] El componente es accesible
-- [ ] El componente pasa la validacion de W3C
-- [ ] El componente es reutilizable
+- [ ] El componente es accesible.
+- [ ] El componente pasa la validacion de W3C.
+- [ ] El componente es reutilizable.
 - [ ] Funciona correctamente en los navegadores principales (Chrome, Safari, Firefox, Edge).
 - [ ] El código está limpio, formateado y libre de estilos en línea (_inline styles_).
