@@ -1,7 +1,7 @@
 ---
 name: "Nuevo landing page"
 about: Plantilla para la maquetación y desarrollo de un nuevo landing page.
-title: "feat: "
+title: "task: "
 labels: enhancement
 type: Task
 assignees: ""
@@ -30,11 +30,10 @@ h
 ### Estructura y Semántica (HTML / Pug)
 
 - [ ] Definir etiquetas HTML5 semánticas adecuadas.
-- [ ] Planificar la reutilización del componente.
 
 ### Estilos (SCSS / CSS)
 
-- [ ] Crear el archivo de estilos aislado para el componente.
+- [ ] Crear el archivo de estilos aislado para los componentes.
 - [ ] Aplicar enfoque **Mobile-First** para los breakpoints.
 - [ ] Utilizar variables globales (colores, tipografías, espaciados) para mantener la consistencia.
 - [ ] Asegurar que los estados interactivos (`:hover`, `:focus`, `:active`) estén definidos.
