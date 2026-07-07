@@ -1,9 +1,9 @@
 ---
 name: "Nuevo landing page"
 about: Plantilla para la maquetación y desarrollo de un nuevo landing page.
-title: "task: "
+title: "feat: "
 labels: enhancement
-type: Task
+type: Feature
 assignees: ""
 ---
 
