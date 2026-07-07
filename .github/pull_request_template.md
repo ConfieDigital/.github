@@ -1,13 +1,14 @@
 ## ¿Qué hace este PR?
 
--
+- 
+- Closes #
 
 ## Tarea
 
 - **Wrike**:
 - **Figma**:
 
-## Tipo de cambio
+## Tipo de cambio (select)
 
 - [ ] Fix (corrección de errores)
 - [ ] Feat (nueva funcionalidad)
@@ -20,13 +21,3 @@
 1. Ve a la ruta: `/tu-ruta`
 2. Haz clic en el botón X.
 3. Verifica que el resultado sea Y.
-
-## Evidencia Visual (Capturas)
-
-| Antes                 | Después               |
-| --------------------- | --------------------- |
-| [Sube tu imagen aquí] | [Sube tu imagen aquí] |
-
-## Notas adicionales o contexto para el revisor
-
--
