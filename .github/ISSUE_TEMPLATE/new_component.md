@@ -15,9 +15,3 @@ Creación del componente
 **Wrike:**
 
 ---
-
-## Estimación
-
-- **Horas:**
-
----
